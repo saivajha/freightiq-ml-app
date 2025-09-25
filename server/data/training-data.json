@@ -1,0 +1,30 @@
+{
+  "bookings": [
+    {
+      "id": "training_1758787909984_xy743hy9t",
+      "requestId": "a250ee4a-0a8c-4f64-b75f-3604f5ab4d01",
+      "bookingId": "booking_1758787909970",
+      "customerId": "customer-001",
+      "forwarderId": "forwarder-001",
+      "finalPrice": 5932.8,
+      "status": "booked",
+      "timestamp": "2025-09-25T08:11:49.980Z",
+      "type": "booking",
+      "loggedAt": "2025-09-25T08:11:49.984Z"
+    }
+  ],
+  "declines": [
+    {
+      "id": "training_1758788234821_zjx5za23p",
+      "requestId": "319738b2-f8b7-4d6c-900f-8815926646a9",
+      "reason": "Price too high",
+      "customerId": "customer-001",
+      "forwarderId": "forwarder-001",
+      "status": "declined",
+      "timestamp": "2025-09-25T08:17:14.816Z",
+      "type": "decline",
+      "loggedAt": "2025-09-25T08:17:14.821Z"
+    }
+  ],
+  "lastUpdated": "2025-09-25T08:17:14.821Z"
+}
